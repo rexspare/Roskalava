@@ -1,0 +1,144 @@
+{
+  "expo": {
+    "name": "Roskalava",
+    "slug": "roskalava",
+    "version": "1.0.3",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "plugins": [
+      [
+        "expo-tracking-transparency",
+        {
+          "userTrackingPermission": "Roskalava wants to track you to collect IDFA & Deliver personalized ads"
+        }
+      ],
+      "@react-native-google-signin/google-signin",
+      [
+        "expo-build-properties",
+        {
+          "ios": {
+            "useFrameworks": "static"
+          },
+          "android": {
+            "compileSdkVersion": 33,
+            "targetSdkVersion": 33,
+            "buildToolsVersion": "30.0.2",
+            "kotlinVersion": "1.7.10"
+          }
+        }
+      ],
+      "./react-native-maps-plugin",
+      [
+        "@stripe/stripe-react-native",
+        {
+          "merchantIdentifier": "",
+          "enableGooglePay": false
+        }
+      ],
+      [
+        "expo-document-picker",
+        {
+          "appleTeamId": "M34L8S85ZF",
+          "iCloudContainerEnvironment": "Production"
+        }
+      ],
+      [
+        "expo-notifications",
+        {
+          "icon": "./assets/icon96x96.png",
+          "color": "#ffffff",
+          "mode": "production"
+        }
+      ],
+      "expo-localization"
+    ],
+    "splash": {
+      "image": "./assets/splash.png",
+      "backgroundColor": "#f85c70",
+      "resizeMode": "cover"
+    },
+    "notification": {
+      "icon": "./assets/icon96x96.png",
+      "color": "#ffffff",
+      "iosDisplayInForeground": true,
+      "androidMode": "default"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bitcode": "Debug",
+      "googleServicesFile": "./GoogleService-Info.plist",
+      "usesAppleSignIn": true,
+      "supportsTablet": true,
+      "bundleIdentifier": "com.roskalava.app",
+      "buildNumber": "5",
+      "usesIcloudStorage": true,
+      "infoPlist": {
+        "NSCameraUsageDescription": "Roskalava uses the camera to capture and upload user profile image and Listing Image to the server.",
+        "NSPhotoLibraryUsageDescription": "Roskalava needs access to the photo library to select and upload user profile image and Listing Image to the server.",
+        "NSPhotoLibraryAddUsageDescription": "Roskalava needs access to the photo library to select and upload user profile image and Listing Image to the server.",
+        "NSLocationWhenInUseUsageDescription": "Roskalava usages device location on listing information, Listing search Data and User information.",
+        "NSLocationAlwaysAndWhenInUseUsageDescription": "Roskalava usages device location on listing information, Listing search Data and User information.",
+        "NSLocationAlwaysUsageDescription": "Roskalava uses device location on listing information, Listing search Data and User information.",
+        "NSMicrophoneUsageDescription": "Roskalava uses your microphone while taking video of your product for uploading in listing information.",
+        "CFBundleAllowMixedLocalizations": true,
+        "UIBackgroundModes": [
+          "remote-notification"
+        ]
+      },
+      "config": {
+        "googleMapsApiKey": "Hj87jyn9m79n6h5rgf7hug5_vNH786I8N6NB5G7",
+        "usesNonExemptEncryption": false
+      }
+    },
+    "android": {
+      "package": "com.roskalava.app",
+      "googleServicesFile": "./google-services.json",
+      "config": {
+        "googleMaps": {
+          "apiKey": "Hj87jyn9m79n6h5rgf7hug5_vNH786I8N6NB5G7"
+        }
+      },
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#fff"
+      },
+      "permissions": [
+        "CAMERA",
+        "CAMERA_ROLL",
+        "MEDIA_LIBRARY",
+        "READ_EXTERNAL_STORAGE",
+        "WRITE_EXTERNAL_STORAGE",
+        "RECORD_AUDIO",
+        "READ_PHONE_STATE",
+        "READ_CONTACTS",
+        "LOCATION",
+        "ACCESS_COARSE_LOCATION",
+        "ACCESS_FINE_LOCATION",
+        "RECEIVE_BOOT_COMPLETED",
+        "android.permission.INTERNET",
+        "com.google.android.gms.permission.AD_ID",
+        "POST_NOTIFICATIONS"
+      ],
+      "versionCode": 1
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "scheme": "yourscheme",
+    "extra": {
+      "eas": {
+        "projectId": "1fe08d91-c171-49eb-825b-a5d028938678"
+      }
+    }
+  },
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-7403499306967015~8790709565",
+    "ios_app_id": "ca-app-pub-7403499306967015~5354807687"
+  }
+}

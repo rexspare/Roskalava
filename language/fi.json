@@ -1,0 +1,1314 @@
+{
+    "screenTitles": {
+        "accountScreen": "Tili",
+        "chatScreen": "Viesti",
+        "loginScreen": "Kirjaudu sisään",
+        "signUpScreen": "Rekisteröidy",
+        "settingsScreen": "Asetukset",
+        "myListingsScreen": "Omat ilmoitukset",
+        "favoritesScreen": "Suosikit",
+        "reportScreen": "Raportoi",
+        "myMembershipScreen": "Jäsenyyteni",
+        "contactUsScreen": "Ota yhteyttä",
+        "fAQScreen": "UKK",
+        "howtoSellFastScreen": "Kuinka myydä nopeasti",
+        "moreScreen": "Lisää vaihtoehtoja",
+        "myProfileScreen": "Profiilini",
+        "editPersonalDetailScreen": "Muokkaa henkilötietoja",
+        "aboutAppScreen": "Tietoja sovelluksesta",
+        "tNCScreen": "Käyttöehdot",
+        "privacyPolicyScreen": "Tietosuojakäytäntö",
+        "editListingScreen": "Muokkaa ilmoitusta",
+        "selectLocationScreen": "Valitse sijainti",
+        "sendEmailScreen": "Lähetä sähköpostia",
+        "selectCategoryScreen": "Valitse kategoria",
+        "storeDetailsScreen": "Kaupan tiedot",
+        "allStores": "Kaikki kaupat",
+        "myStoreScreen": "Oma kauppani",
+        "membershipsScreen": "Jäsenyyspaketit",
+        "paymentMethodScreen": "Maksutiedot",
+        "promoteScreen": "Mainosta ilmoitusta",
+        "paymentsScreen": "Maksut",
+        "paymentDetailScreen": "Maksutiedot",
+        "forgotPassScreen": "Unohtunut salasana",
+        "oTPScreen": "OTP-vahvistus",
+        "documentsScreen": "Omat asiakirjat",
+        "privacynSafetyScreen": "Yksityisyys ja turvallisuus",
+        "hiddenListingsScreen": "Piilotetut ilmoitukset",
+        "blockedUsersScreen": "Estetyt käyttäjät"
+    },
+    "safetyScreenTexts": {
+        "hiddenListingsBtn": "Piilotetut ilmoitukset",
+        "blockedUsersBtn": "Estetyt käyttäjät"
+    },
+    "adMobTexts": {
+        "okButton": "OK",
+        "appDisabledAlert": "Tämä sovellus näyttää mainoksia Google AdMobin avulla. Jos haluat ottaa käyttöön personoidut mainokset, voit sallia tämän sovelluksen seurannan asetuksista"
+    },
+    "weekDayNames": {
+        "0": "Sunnuntai",
+        "1": "Maanantai",
+        "2": "Tiistai",
+        "3": "Keskiviiko",
+        "4": "Torstai",
+        "5": "Perjantai",
+        "6": "Lauantai"
+    },
+    "alerts": {
+        "notificationRegistrationFail": "Push-ilmoituksen rekisteröinti epäonnistui",
+        "notificationPermission": "Ota käyttöön lupa push-ilmoituksille.",
+        "simulatorAlert": "Käytettävä fyysistä laitetta push-ilmoituksiin"
+    },
+    "tabTitles": {
+        "home": "Kotisivu",
+        "search": "Hae",
+        "newListing": "Jätä ilmoitus",
+        "chatList": "Viestit",
+        "account": "Tili"
+    },
+    "headerBackButtonTitle": "Back",
+    "accountScreenTexts": {
+        "loginButtonText": "Kirjaudu sisään / Rekisteröidy",
+        "logOutButtonText": "Kirjaudu ulos",
+        "successMessage": "Onnistunut",
+        "loginTitle": "Kirjaudu sisään jatkaaksesi",
+        "deleteAccountBtn": "Poista tili",
+        "deleteAccountPrompt": "Vahvista tilin poistaminen?",
+        "okBtnTitle": "Ok",
+        "deleteAccountMessageTitle": "Varoitus!",
+        "deleteAccountMessage": "Vahvista tilin poistaminen? Tätä toimintoa ei voi kumota.",
+        "cancelBtnTitle": "Peruuttaa",
+        "confirmBtnTitle": "Vahvista"
+    },
+    "settingsScreenTexts": {
+        "select": "Valitse",
+        "currencyTitle": "Valuutta",
+        "screenTitle": "Asetukset",
+        "notificationTitle": "Ilmoitus",
+        "languageTitle": "Kieli",
+        "ListingApprovalNotiTitle": "Ilmoitus mainoksen hyväksynnästä",
+        "newsletterNotiTitle": "Uutiskirje",
+        "messageNotiTitle": "Uusi viesti",
+        "reminderBeforeListingExpire": "Muistutus ennen ilmoituksen vanhenemista",
+        "expiredListingNotification": "Erääntynyt ilmoitus",
+        "onlyAdmin": {
+            "newListing": "Uudet ilmoitukset",
+            "newOrder": "Uudet tilaukset",
+            "newComment": "Uusi kommentti"
+        },
+        "logoutbuttonTitle": "Kirjaudu ulos",
+        "viewStyleTitle": "Ilmoitusten näyttötyyli",
+        "listView": "Listanäkymä"
+    },
+    "allStoresTexts": {
+        "loadingText": "Haetaan kauppatietoja",
+        "noShopText": "Pahoittelut, kauppaa ei löytynyt.",
+        "storeAdCount": "ilmoitukset",
+        "searchPlaceholder": "Hae..."
+    },
+    "forgotScreenTexts": {
+        "title": "Sähköpostiosoite",
+        "message": "Syötä sähköpostiosoitteesi salasanan vaihtamiseksi.",
+        "placeholder": "Käyttäjänimi/sähköpostiosoite",
+        "buttonTitle": "Jatka",
+        "passwordReset": "Saat sähköpostin, jossa on linkki salasanan vaihtoon.",
+        "resetSuccessMessage": "Sähköpostiisi lähetettiin linkki salasanan vaihtoon"
+    },
+    "chatListScreenTexts": {
+        "noChatTitleMessage": "Ei viestejä",
+        "noChatMessage": "",
+        "deletePromptMessage": "Vahvista poistaminen?",
+        "cancelButtonTitle": "Peruuta",
+        "deleteButtonTitle": "Poista",
+        "noUserMessage": "Et ole tällä hetkellä kirjautunut sisään.\nKirjaudu sisään tai rekisteröidy nähdäksesi viestisi.",
+        "loadingMessage": "Viestien haku käynnissä",
+        "chatDeleteSuccessText": "Poistettu onnistuneesti",
+        "chatDeleteErrorText": "Virhe! Yritä uudelleen",
+        "offlineNoticeText": "Olet offline",
+        "loginButtonTitle": "Kirjaudu sisään / Rekisteröidy",
+        "scrollToRefresh": "Päivitä vierittämällä"
+    },
+    "chatScreenTexts": {
+        "loadingMessage": "Viestien haku käynnissä",
+        "deactivatedMessage": "Vastaanottaja on poistanut keskustelun",
+        "placeholder": {
+            "message": "Kirjoita viesti"
+        },
+        "reportBtnTitle": "Ilmoita väärinkäytöstä",
+        "reportAlertTitle": "Ilmoita käyttäjä",
+        "reportAlertText": "Haluatko todella ilmoittaa tästä käyttäjästä väärinkäytöksestä?",
+        "cancelBtnTitle": "Peruuta",
+        "confirmBtnTitle": "Ilmoita"
+    },
+    "contactUsScreenTexts": {
+        "sendmessageButtontitle": "Lähetä viesti",
+        "successMessage": "Viesti lähetetty",
+        "customServerResponseError": "Virhe!",
+        "formData": {
+            "name": {
+                "label": "Nimesi",
+                "placeholder": "Kirjoita nimesi...",
+                "errorLabel": "Nimi"
+            },
+            "phone": {
+                "label": "Puhelinnumero",
+                "placeholder": "Kirjoita puhelinnumerosi...",
+                "errorLabel": "Puhelinnumero"
+            },
+            "email": {
+                "label": "Sähköposti",
+                "placeholder": "esimerkki@email.com",
+                "errorLabel": "Sähköposti"
+            },
+            "message": {
+                "label": "Viesti",
+                "placeholder": "Viestisi",
+                "errorLabel": "Viesti"
+            }
+        },
+        "formValidation": {
+            "requiredField": "Pakollinen",
+            "minimumLength5": "On oltava vähintään 5 merkkiä pitkä.",
+            "minimumLength3": "On oltava vähintään 3 merkkiä pitkä.",
+            "validEmail": "Voimassa oleva sähköpostiosoite tarvitaan."
+        }
+    },
+    "editListingScreenTexts": {
+        "title": "Muokkaa ilmoituslomaketta",
+        "formFieldLabels": {
+            "listingTitle": "Otsikko",
+            "pricingLabel": "Hinnoittelu",
+            "priceType": "Hinnan tyyppi",
+            "price": "Hinta",
+            "maxPrice": "Maksimihinta",
+            "listingDescription": "Kuvaus",
+            "videoUrl": "Videon URL",
+            "contact": "Yhteystiedot",
+            "zipCode": "Postinumero",
+            "address": "Osoite",
+            "phone": "Puhelin",
+            "whatsapp": "WhatsApp",
+            "email": "Sähköposti",
+            "website": "Verkkosivusto",
+            "name": "Nimi",
+            "imageInput": "Kuvat",
+            "formTitle": "Tuotetiedot",
+            "title": "Otsikko"
+        },
+        "formValidation": {
+            "requiredField": "Pakollinen",
+            "minimumLength5": "On oltava vähintään 5 merkkiä pitkä.",
+            "minimumLength3": "On oltava vähintään 3 merkkiä pitkä.",
+            "validEmail": "Voimassa oleva sähköpostiosoite tarvitaan.",
+            "validUrl": "Toimiva URL-osoite tarvitaan."
+        },
+        "buttonTitles": {
+            "tryAgain": "Yritä uudelleen",
+            "updateListing": "Päivitä ilmoitus",
+            "mapStandard": "Standardi",
+            "mapHybrid": "Hybridi"
+        },
+        "mapToggleMessage": "Älä näytä karttaa.",
+        "whatsappNote": "WhatsApp-numero esim. +358xxxxxxxxx",
+        "uploadErrorNotice": "Virhe! Yritä uudelleen.",
+        "uploadingNotice": "Tämä kestää hetken....",
+        "maxImageCount": "Voit ladata enintään ",
+        "images": " kuvaa",
+        "dragAndSort": "Vedä ja lajittele kuvia.",
+        "loading": "Hankitaan tietoja",
+        "geoCoderFail": "Karttavirhe!",
+        "imageFieldCustomError": "Kuva on pakollinen",
+        "requiredFieldCustomError": "Tämä on pakollinen",
+        "websiteErrorLabel": "Toimiva URL tarvitaan!",
+        "videoUrlErrorLabel": "Toimiva URL tarvitaan!",
+        "videoUrlNote": "Esim. https://www.youtube.com/watch?v=RiXdDGk_XCU",
+        "requiredFieldNotice": "*** Punaisella tähdellä merkityt kentät ovat pakollisia ***",
+        "socialProfileTitle": "Sosiaaliset profiilit"
+    },
+    "editPersonalDetailScreenTexts": {
+        "screenTitle": "Henkilökohtaiset tiedot",
+        "changePhotoButtonTitle": "Vaihda kuva",
+        "updateDetailsButtonTitle": "Tallenna tiedot",
+        "passwordToggleText": "Vaihda salasana",
+        "passwordNotSameMessage": "Salasana ei täsmää",
+        "successText": "Päivitetty onnistuneesti",
+        "errorText": "Virhe! Yritä uudelleen",
+        "cancelButtonTitle": "Peruuta",
+        "addPhotoTitle": "Lisää kuva",
+        "takePhotoButtonTitle": "Ota valokuva",
+        "fromGalleryButtonTitle": "Galleriasta",
+        "fieldLabels": {
+            "firstName": "Etunimi",
+            "lastName": "Sukunimi",
+            "changePassword": "Vaihda salasana",
+            "newPassword": "Uusi salasana",
+            "confirmPassword": "Vahvista salasana",
+            "phone": "Puhelinnumero",
+            "whatsapp": "Whatsapp Numero",
+            "website": "Verkkosivusto",
+            "zipcode": "Postinumero",
+            "address": "Osoite",
+            "locations": "Sijainnit",
+            "password": "Salasana"
+        },
+        "formValidation": {
+            "requiredField": "Pakollinen",
+            "minimumLength5": "On oltava vähintään 5 merkkiä pitkä.",
+            "minimumLength3": "On oltava vähintään 3 merkkiä pitkä.",
+            "validUrl": "Toimiva URL-osoite tarvitaan."
+        },
+        "enterNewPassword": "Syötä uusi salasana",
+        "reEnterPassword": "Kirjoita salasana uudelleen",
+        "cameraRollPermissionAlert": "Anna lupa käyttää kuvakirjastoa",
+        "cameraPermissionAlert": "Anna lupa käyttää kamera"
+    },
+    "favoritesScreenTexts": {
+        "removePromptMessage": "Haluatko poistaa tämän ilmoituksen suosikeistasi?",
+        "cancelButtonTitle": "Peruuta",
+        "removeButtonTitle": "Poista",
+        "noFavoriteMessage": "Ei suosikkeja.",
+        "exploreTitle": "Näytä kaikki ilmoitukset",
+        "loadingMessage": "Suosikkilistausten",
+        "favRemoveSuccessMessage": "Poistettu onnistuneesti",
+        "favRemoveErrorCustomMessage": "Virhe! Yritä uudelleen",
+        "customServerResponseError": "Virhe",
+        "noInternet": "Ei netti"
+    },
+    "homeScreenTexts": {
+        "selectCatBtn": "Vaihda",
+        "seAllButtonText": "Näytä kaikki kategoriat",
+        "loadingMessage": "Haetaan",
+        "listingSearchPlaceholder": "Hae...",
+        "noListingsMessage": "Sori... Tyhjä haku.",
+        "selectLocationText": "Sijainti",
+        "latestAdsText": "Viimeisimmät ilmoitukset",
+        "topCategoriesText": "Kategoriat",
+        "requestTimedOut": "Virhe",
+        "exitAppWarning": "Haluatko poistua sovelluksesta?",
+        "cancelButtonTitle": "Peruuta",
+        "yesButtonTitle": "Kyllä",
+        "retryBtn": "Yritä uudelleen",
+        "refreshBtn": "Virkistä"
+    },
+    "listingDetailScreenTexts": {
+        "loadingText": "Hankitaan tiedot",
+        "soldOutMessage": "Loppuunmyyty",
+        "cancelButtonTitle": "Peruuta",
+        "loginButtonTitle": "Kirjaudu sisään",
+        "pageTitle": "Lisätiedot",
+        "showLess": "Näytä vähemmän",
+        "showMore": "Näytä lisää",
+        "sellerPrefix": "",
+        "description": "Kuvaus",
+        "mapButtons": {
+            "standard": "Standardi",
+            "hybrid": "Hybridi"
+        },
+        "similar": "Samankaltaiset ilmoitukset",
+        "call": "Soita ",
+        "custom_fields": {
+            "date_range": {
+                "start": "Alkaa: ",
+                "end": "Loppu: "
+            },
+            "date_time_range": {
+                "start": "Alkaa: ",
+                "end": "Loppu: "
+            }
+        },
+        "chatLoginAlert": "Kirjaudu sisään keskustellaksesi tämän myyjän kanssa",
+        "emailLoginAlert": "Kirjaudu sisään lähettääksesi sähköpostia tälle myyjälle",
+        "loginAlert": "Kirjaudu sisään käyttääksesi tätä ominaisuutta.",
+        "priceTypes": {
+            "fixed": "Kiinteä",
+            "onCall": "Pyydä hinta",
+            "negotiable": "Neuvoteltavissa"
+        },
+        "socialProfileTitle": "Sosiaaliset profiilit",
+        "businessHoursTitle": "Aukioloajat",
+        "bHTexts": {
+            "openTitle": "Auki",
+            "closeTitle": "Suljettu",
+            "openText": "Auki (24 tuntia)",
+            "openTodayText": "Auki tänään (24 tuntia)",
+            "closeText": "Suljettu",
+            "closeTodayText": "Suljettu tänään",
+            "currentStatusOpen": "Olemme tällä hetkellä auki.",
+            "currentStatusClose": "Valitettavasti olemme tällä hetkellä suljettuina."
+        },
+        "whatsappButton": "Avaa Whatsapp",
+        "showRatingBtn": "Näytä arvostelut",
+        "hideRatingBtn": "Piilota arvostelut",
+        "ratingHeader": {
+            "zero": "Ei arvosteluja",
+            "single": " arvostelu",
+            "multiple": " arvostelua"
+        },
+        "ratingFormTitle": "Jätä arvostelu",
+        "ratingFormNotice": "Sähköpostiosoitettasi ei julkaista. Pakolliset kentät on merkitty punaisella tähdellä.",
+        "formLabels": {
+            "name": "Nimi",
+            "email": "Sähköposti",
+            "title": "Arvostelun otsikko",
+            "rating": "Arvosana",
+            "review": "Arvostelu"
+        },
+        "formValidation": {
+            "required": "vaaditaan",
+            "invalid": "on virheellinen"
+        },
+        "submitBtn": "Lähetä",
+        "reviewNotice": "Arvostelusi on lähetetty onnistuneesti. Kun se on hyväksytty, se näkyy muiden arvostelujen kanssa.",
+        "reviewApproved": "Arvostelu onnistui.",
+        "postTimePrefix": "Lähetetty ",
+        "deletedValue": "[Arvo poistettu ylläpidon toimesta]",
+        "seeAllAds": "Näytä kaikki ilmoitukset",
+        "verified": "Vahvistettu",
+        "share": "Jaa ilmoitus",
+        "blockAd": "Älä näytä minulle tätä ilmoitusta",
+        "unfollowSeller": "Älä näytä minulle tämän myyjän ilmoituksia",
+        "reportAd": "Ilmoita tästä mainoksesta",
+        "blockAdAlert": "Haluatko varmasti piilottaa tämän ilmoituksen?",
+        "blockAdConfirmBtn": "Piilota",
+        "blockAdCancelBtn": "Peruuta",
+        "blockAdSuccessMessage": "Onnistui.",
+        "blockUserAlert": "Haluatko estää tämän käyttäjän?",
+        "blockUserConfirmBtn": "Estä",
+        "blockUserCancelBtn": "Peruuta",
+        "blockUserSuccessMessage": "Onnistui."
+    },
+    "hiddenListingsTexts": {
+        "unBlockListingBtnTitle": "Näytä",
+        "unBlockAlert": "Haluatko näyttää tämän ilmoitus?",
+        "okBtnTitle": "Vahvistaa",
+        "cancelBtnTitle": "Peruuttaa",
+        "unBlockSuccessMessage": "Onnistui.",
+        "listEmptyMessage": "Ei piilotettuja ilmoitus."
+    },
+    "blockedUsersTexts": {
+        "unBlockUserBtnTitle": "Poista estä",
+        "unBlockAlert": "Haluatko todella poistaa tämän käyttäjän eston?",
+        "okBtnTitle": "Vahvistaa",
+        "cancelBtnTitle": "Peruuttaa",
+        "unBlockSuccessMessage": "Onnistui.",
+        "listEmptyMessage": "Ei vielä estoluetteloat."
+    },
+    "loginScreenTexts": {
+        "signUpPrompt": "Eikö sinulla ole tiliä?",
+        "loginTitle": "Kirjaudu sisään",
+        "formFieldsPlaceholder": {
+            "username": "Käyttäjätunnus / Sähköposti",
+            "password": "Salasana"
+        },
+        "forgotPassword": "Unohtuiko salasana?",
+        "cancelButtonTitle": "Peruuttaa",
+        "signUpButtonTitle": "Luo tili",
+        "loginButtonTitle": "Kirjaudu sisään",
+        "loginSuccessMessage": "onnistui",
+        "formFieldsLabel": {
+            "username": "Käyttäjänimi",
+            "password": "Salasana",
+            "reset": "Käyttäjätunnus / Sähköposti"
+        },
+        "formValidation": {
+            "requiredField": "Pakollinen",
+            "minimumLength3": "on oltava vähintään 3 merkkiä."
+        },
+        "customResponseError": "Virhe",
+        "socialButtonTitle": {
+            "facebook": "Facebook",
+            "google": "Google"
+        },
+        "pleaseWaitText": "Hetkinen!",
+        "socialLoginText": "Tai kirjaudu sisään"
+    },
+    "membershipsScreenTexts": {
+        "makePayment": "Suorita maksu"
+    },
+    "oTPScreenText": {
+        "phoneInputTitle": "Anna puhelinnumero",
+        "oTPInputTitle": "Syöttö OTP",
+        "phoneInputPlaceHolder": "Puhelinnumero",
+        "getOTPButtonTitle": "Lähetä OTP",
+        "verifyBtnTitle": "Vahvista",
+        "retryBtnTitle": "Lähetä Otp uudelleen",
+        "successTitle": "Vahvistus onnistui",
+        "errorTitle": "Vahvistus epäonnistui",
+        "successMessage": "Vahvistus onnistui.",
+        "errorMessage": "Virhe! OTP",
+        "okBtnTitle": "Ok",
+        "signUpBtnTitle": "Suorita rekisteröinti loppuun"
+    },
+    "myListingsScreenTexts": {
+        "loggedOut": "Et ole kirjautunut sisään.",
+        "deletePromptMessage": "Haluatko poistaa",
+        "editPromptMessage": "Haluatko muokata",
+        "promotePromptMessage": "Haluatko mainostaa",
+        "soldPromptMessage": "Haluatko merkitä",
+        "renewPromptMessage": "Haluatko uusiutua",
+        "asUnsold": "merkittynä myymättömäksi",
+        "asSold": "merkittynä myydyksi",
+        "cancelButtonTitle": "Peruuttaa",
+        "okayButtonTitle": "Ok",
+        "deleteButtonTitle": "Poistaa",
+        "editButtonTitle": "Muokkaa",
+        "promoteButtonTitle": "Mainosta",
+        "renewButtonTitle": "Uusiudu",
+        "noAdTitle": "Tällä hetkellä sinulla ei ole ilmoitusta!",
+        "postAdButtonTitle": "Tee uusi ilmoitus",
+        "loadingMessage": "Haetaan",
+        "listingDeleteSuccessText": "Poistettu onnistuneesti",
+        "listingDeleteErrorText": "Virhe! Yritä uudelleen",
+        "actionMenuButtons": {
+            "edit": "Muokkaa",
+            "delete": "Poistaa",
+            "promote": "Mainosta",
+            "sold": "Merkitse myydyksi",
+            "unsold": "Merkitse myymättömäksi",
+            "renew": "Uusiudu"
+        },
+        "promoteLink": "https://roskalava.net/",
+        "customServerErrorMessage": "Virhe.",
+        "noInternet": "Ei Netti"
+    },
+    "myMembershipScreenTexts": {
+        "title": "Tule jäseneksi!",
+        "membershipText": "Jäsenyys antaa yrityksellesi äänen ja läsnäolon alustallamme, jotta tavoitat enemmän asiakkaita, lisäät myyntiäsi ja laajennat liiketoimintaasi!",
+        "emailLabel": "Sähköposti : ",
+        "membershipDetailHeader": "Jäsenyysraportti",
+        "membershipStatusLabel": "Tila : ",
+        "subscriptionStatusLabel": "Tila : ",
+        "subscriptionNameLabel": "Paketti : ",
+        "subscriptionMethodLabel": "Maksutapa : ",
+        "subscriptionCancelBtnTitle": "Peruuta tilaus",
+        "subscriptionPMUpdateBtnTitle": "Päivitä",
+        "subscriptionCancelConfirmation": "Haluatko todella peruuttaa tämän tilauksen?",
+        "cancelBtnTitle": "Ei",
+        "hideCardElementBtnTitle": "Piilottaa",
+        "paymentMethodUpdateSuccessMessage": "Maksutapa päivitetty onnistuneesti.",
+        "confirmBtnTitle": "Vahvistaa",
+        "membershipValidityLabel": "Voimassaoloaika : ",
+        "remainingAdsLabel": "Jäljellä olevat ilmoitukset : ",
+        "postedAdsLabel": "Julkaistut ilmoitukset : ",
+        "freeAdsLabel": "Ilmaiset ilmoitukset : ",
+        "remainingAdsTableLabel": "Jäljellä olevat ilmoitukset",
+        "membershipValidityTableLabel": "Voimassaoloaika",
+        "upgradeMembershipPackageButtonTitle": "Näytä lisää paketteja",
+        "showMembershipPackageButtonTitle": "Näytä jäsenyyspaketit",
+        "active": "Aktiivinen",
+        "expired": "Vanhentunut",
+        "till": "Asti",
+        "expiredOn": "Vanhenemispäivä",
+        "promotions": "Tarjoukset",
+        "validityUnit": "Päivää",
+        "subscriptionReportTitle": "Tilausraportti"
+    },
+    "myProfileScreenTexts": {
+        "loadingMessage": "Haetaan",
+        "customResponseError": "Virhe",
+        "profileInfoLabels": {
+            "name": "Nimi",
+            "email": "Sähköpostiosoite",
+            "phone": "Puhelinnumero",
+            "whatsapp": "Whatsapp",
+            "address": "Sijainti",
+            "website": "Verkkosivusto"
+        },
+        "noInternet": "Ei Netti",
+        "screenTitle": "Henkilökohtaisia tietoja",
+        "infoSectionTitle": "Henkilökohtaisia tietoja",
+        "editButtonTitle": "Muokkaa tietoja",
+        "verifyBtnTitle": "Vahvista",
+        "addPhoneBtnTitle": "Lisää puhelinnumero"
+    },
+    "myStoreTexts": {
+        "banner": "Kaupan banneri",
+        "closed": "Suljettu",
+        "noBanner": "Ei banneria ladattu vielä",
+        "logo": "Kaupan logo",
+        "schedule": "Kaupan aikataulu",
+        "hours": "Aukioloajat",
+        "selectHours": "Valitse aukioloajat",
+        "info": "Kaupan tiedot",
+        "slug": "Kaupan slug / URL",
+        "storeName": "Kaupan nimi",
+        "storeSlogan": "Kaupan tunnuslause",
+        "storeEmail": "Kaupan sähköposti",
+        "storePhone": "Kaupan puhelin",
+        "storeWebsite": "Kaupan verkkosivusto",
+        "storeAddress": "Kaupan osoite",
+        "storeDescription": "Kaupan kuvaus",
+        "storeSocial": "Kaupan sosiaaliset linkit",
+        "facebook": "Facebook URL",
+        "youtube": "Youtube URL",
+        "twitter": "Twitter URL",
+        "linkedin": "LinkedIn URL",
+        "updateStoreButtonTitle": "Päivitä kauppa",
+        "imagePickerTitle": "Lisää kuva",
+        "imagePickerCameraText": "Ota valokuva",
+        "imagePickerGalleryText": "Galleriasta",
+        "errorFieldNames": {
+            "slug": "Kaupan slug / URL",
+            "title": "Kaupan nimi",
+            "slogan": "Kaupan tunnuslause",
+            "email": "Sähköposti",
+            "phone": "Puhelin",
+            "address": "Osoite",
+            "website": "Verkkosivusto",
+            "description": "Kuvaus",
+            "facebook": "Facebook",
+            "youtube": "Youtube",
+            "twitter": "Twitter",
+            "linkedin": "LinkedIn"
+        },
+        "placeHolders": {
+            "slug": "Kaupan slug",
+            "title": "Kaupan nimi",
+            "slogan": "Kaupan tunnuslause",
+            "email": "yourstore@store.com",
+            "phone": "+0123456789",
+            "address": "Kaupan osoite",
+            "website": "https://www.yourstore.com",
+            "description": "Kaupan kuvaus",
+            "facebook": "https://www.facebook.com/yourstore",
+            "youtube": "https://www.youtube.com/yourstore",
+            "twitter": "https://www.twitter.com/yourstore",
+            "linkedin": "https://www.linkedin.com/yourstore"
+        },
+        "formValidation": {
+            "requiredField": "Pakollinen",
+            "minimumLength5": "on oltava vähintään 5 merkkiä.",
+            "minimumLength3": "on oltava vähintään 3 merkkiä.",
+            "validEmail": "voimassa oleva sähköposti tarvitaan.",
+            "validUrl": "toimiva URL-osoite tarvitaan."
+        },
+        "successNotifications": {
+            "logo": "Logo päivitetty onnistuneesti.",
+            "banner": "Banneri päivitetty onnistuneesti.",
+            "storeInfo": "Kaupan tiedot päivitetty onnistuneesti."
+        },
+        "errorNotification": "Palvelinvirhe. Yritä myöhemmin uudelleen.",
+        "userHasNoStore": "Käyttäjällä ei ole kauppaa.",
+        "storeCreateMessage": "Haluatko luoda kauppasi?",
+        "createStoreButtonTitle": "Luo kauppa",
+        "cancelButtonTitle": "Peruuttaa",
+        "cameraRollPermissionAlert": "Sinun on otettava käyttöön kamerarullan käyttölupa tämän ominaisuuden käyttämiseksi",
+        "cameraPermissionAlert": "Sinun on otettava käyttöön lupa kameran käyttämiseen"
+    },
+    "newListingScreenTexts": {
+        "title": "Ilmoituslomake",
+        "selectType": "Valitse tyyppi",
+        "selectCategory": "Valitse kategoria",
+        "selectLocation": "Valitse sijainti",
+        "eligibilityChecking": "Hetkinen",
+        "noRemainingAds": "Anteeksi! Sinulla ei ole jäljellä olevia ilmoituksia",
+        "purchaseMembership": "Osta tai uusi jäsenyys lisätäksesi enemmän ilmoituksia",
+        "goBackButtonTitle": "Takaisin",
+        "membershipButtonTitle": "Jäsenyys",
+        "notLoggedIn": "Et ole kirjautunut sisään",
+        "loginOrSignUp": "Kirjaudu sisään tai rekisteröidy luodaksesi ilmoituksen",
+        "loginOrSignUpButtonTitle": "Kirjaudu sisään / Rekisteröidy",
+        "unverifiedTitle": "Vahvistamaton tili!",
+        "unverifiedAccountWithoutPhoneNumber": "Vahvista tilisi puhelinnumerolla.",
+        "unverifiedAccountWithPhoneNumber": "Vahvista puhelinnumerosi.",
+        "verifyBtnTitle": "Vahvista"
+    },
+    "reportScreenTexts": {
+        "serverResponse": {
+            "success": "Onnistui",
+            "fail": "Virhe! Yritä uudelleen"
+        },
+        "questionText": "Jotain tässä ilmoituksessa?",
+        "directionText": "Lähetä meille ilmoitus, jos uskot, että tässä ilmoituksessa on ongelma?",
+        "formFieldLabels": {
+            "message": "Viesti"
+        },
+        "formFieldPlaceholders": {
+            "message": "Viestisi"
+        },
+        "formValidation": {
+            "requiredField": "Pakollinen",
+            "minimumLength3": "on oltava vähintään 5 merkkiä."
+        },
+        "sendReportButtonTitle": "Lähetä"
+    },
+    "searchScreenTexts": {
+        "loadingDataMessage": "Haetaan",
+        "loadingListingMessage": "Haetaan",
+        "noListingFoundMessage": "Sori! Tyhjät hakutulokset.",
+        "loadingFiltersMessage": "Ladataan suodattimia",
+        "radiusSearchTitle": "Säteen haku",
+        "radiusSearchCenterPlaceholder": "Haku keskus",
+        "locationPermissionAlert": "Sinun on otettava käyttöön sijaintilupa tämän toiminnon käyttämiseksi",
+        "location": "Sijainti",
+        "category": "Kategoria",
+        "allCategories": "Kategoriat",
+        "filterTitle": "Suodattimet",
+        "filterLabels": {
+            "sortBy": "Lajittele",
+            "listingType": "Ilmoitustyyppi",
+            "priceRangeLabel": "Hintaluokka"
+        },
+        "rangeEnd": "Mihin",
+        "rangeStart": "Mistä",
+        "clearAllButtonTitle": "Tyhjennä",
+        "applyFiltersButtonTitle": "Käytä suodattimia"
+    },
+    "selectCategoryScreenTexts": {
+        "errorMessages": {
+            "serverError": "Virhe",
+            "timeOut": "Aikakatkaisu"
+        },
+        "showAllofCategory": "Näytä kaikki",
+        "showAll": "Näytä kaikki",
+        "selectSubCategory": "Valitse alaluokka",
+        "allCategory": "Kategoriat"
+    },
+    "selectLocationScreenTexts": {
+        "errorMessages": {
+            "serverError": "Virhe",
+            "timeOut": "Aikakatkaisu"
+        },
+        "showAllofLocation": "Näytä kaikki",
+        "showAll": "Näytä kaikki",
+        "nextLevelLocation": "Valitse alaluokka"
+    },
+    "sendEmailScreenTexts": {
+        "serverResponse": {
+            "success": "Onnistui",
+            "fail": "Virhe, yritä uudelleen",
+            "timeOut": "Virhe, yritä uudelleen"
+        },
+        "formFieldPlaceholders": {
+            "message": "Viestisi",
+            "name": "Nimesi",
+            "email": "Sähköpostisi",
+            "phone": "Puhelimesi"
+        },
+        "formFieldLabels": {
+            "message": "Viesti",
+            "name": "Nimi",
+            "email": "Sähköposti",
+            "phone": "Puhelinnumero"
+        },
+        "sendEmailButtonTitle": "Lähetä sähköpostia",
+        "formValidation": {
+            "requiredField": "Pakollinen",
+            "minimumLength3": "on oltava vähintään 3 merkkiä.",
+            "validEmail": "Voimassa oleva sähköposti tarvitaan."
+        }
+    },
+    "signUpScreenTexts": {
+        "title": "Rekisteröidy",
+        "formFieldLabels": {
+            "first_name": "Etunimi",
+            "last_name": "Sukunimi",
+            "username": "Käyttäjänimi",
+            "phone": "Puhelinnumero",
+            "email": "Sähköpostiosoite",
+            "password": "Salasana"
+        },
+        "formValidation": {
+            "requiredField": "Pakollinen",
+            "minimumLength3": "on oltava vähintään 3 merkkiä.",
+            "minimumLength5": "on oltava vähintään 5 merkkiä.",
+            "minimumLength6": "on oltava vähintään 6 merkkiä.",
+            "validEmail": "Voimassa oleva sähköposti tarvitaan."
+        },
+        "formFieldPlaceholders": {
+            "first_name": "Etunimi",
+            "last_name": "Sukunimi",
+            "username": "Käyttäjänimi",
+            "phone": "+358xxxxxxxx",
+            "email": "user@email.com",
+            "password": "Salasana"
+        },
+        "signupSuccessMessage": "Rekisteröinti onnistui",
+        "mailVerification": "Sähköpostiosoitteeseesi lähetettiin vahvistuslinkki sähköposti. Vahvista sähköpostiosoitteesi ennen kirjautumista.",
+        "errorMessage": {
+            "timeoutError": "Virhe",
+            "serverError": "Virhe"
+        },
+        "signUpButtonTitle": "Rekisteröidy",
+        "signInButtonTitle": "Kirjaudu sisään",
+        "signinMessage": "Onko sinulla jo tili?"
+    },
+    "promoteScreenTexts": {
+        "membershipPromotions": "Jäsenyyden edistäminen",
+        "promotions": "Edistäminen",
+        "remainingads": "Jäljellä olevat ilmoitukset",
+        "validDuration": "Kesto",
+        "validPeriodUnit": "Päivää",
+        "regularPromotions": "Normaalit edistykset",
+        "validity": "Voimassaolo",
+        "price": "Hinta",
+        "confirmPromotion": "Vahvista edistäminen",
+        "proceedToPayment": "Jatka maksuun",
+        "success": "Edistäminen onnistui",
+        "fail": "Edistäminen epäonnistui",
+        "goBackButton": "Takaisin"
+    },
+    "paymentMethodScreen": {
+        "selectedPackage": "Valittu paketti",
+        "promotionConfirmation": "Olet edistämässä",
+        "promotionPlan": "Edistämissuunnitelma",
+        "packagePrice": "Paketin hinta",
+        "promotionPrice": "Edistämishinta",
+        "subTotal": "Välisumma",
+        "paymentDetail": "Maksutiedot",
+        "choosePayment": "Valitse maksutapa",
+        "proceedPayment": "Siirry maksuun",
+        "unknownError": "Tuntematon virhe tapahtui. Yritä myöhemmin uudelleen.",
+        "payment": {
+            "paymentID": "Maksu nro",
+            "totalAmount": "Maksettu määrä",
+            "discount": "Kuponki alennus",
+            "originalPrice": "Alkuperäinen hinta",
+            "orderDate": "Tilauksen päivämäärä",
+            "paymentDate": "Maksun päivämäärä",
+            "method": "Maksutapa",
+            "status": "Maksun tila",
+            "transactionID": "Tapahtumatunnus",
+            "orderKey": "Tilaustunnus",
+            "instructions": "Ohjeet"
+        },
+        "plan": {
+            "pricingOption": "Hinnoitteluoption",
+            "membershipTitle": "Jäsenyyden nimi",
+            "duration": "Kesto",
+            "amount": "Määrä",
+            "details": "Lisätiedot",
+            "description": "Kuvaus"
+        },
+        "closeButton": "Sulje",
+        "paypalRedirectNotice": "Ohjataan Paypalille",
+        "paymentProcessing": "Maksu käsitellään",
+        "goToAccountButton": "Palaa tiliin",
+        "invalidCardMessage": "Syötä kelvolliset korttitiedot, ole hyvä.",
+        "paymentVerifying": "Varmistetaan maksu.",
+        "orderSuccess": "Tilaus onnistui!",
+        "applyButton": "Käytä",
+        "removeButton": "Poista",
+        "couponPlaceholder": "Syötä kuponkikoodi",
+        "couponDiscount": "Kuponki alennus",
+        "couponValidationFailed": "Kuponin validointi epäonnistui. Yritä uudelleen."
+    },
+    "paymentsScreenTexts": {
+        "unknownError": "Tuntematon virhe tapahtui! Yritä uudelleen.",
+        "retryButton": "Yritä uudelleen",
+        "paymentMethodPrefix": "Maksettu",
+        "refreshButton": "Päivitä",
+        "emptyListMessage": "Pahoittelemme! Sinulla ei ole maksuhistoriaa."
+    },
+    "paymentDetailScreen": {
+        "errorNotice": "Virhe tapahtui maksettuja tietoja haettaessa!",
+        "originalErrorLabel": "Alkuperäinen virhe:",
+        "features": "Ominaisuudet",
+        "invoiceNo": "Laskun numero:"
+    },
+    "storeDetailsTexts": {
+        "title": "Kaupan tiedot",
+        "loadingText": "Haetaan kaupan tietoja",
+        "nullText": "Ei annettu",
+        "alwaysOpen": "Aina avoinna",
+        "emptyListing": "Pahoittelut, tällä kaupalla ei ole vielä ilmoituksia!",
+        "storeExpired": "Tämä kauppa ei ole käytettävissä, koska tämän kaupan omistajan jäsenyys on vanhentunut.",
+        "goBackButtonTitle": "Palaa takaisin",
+        "membership": "Jäsen vuodesta",
+        "membershipMomentFormate": "MMM Do YYYY",
+        "openingHourOpen": "Auki",
+        "openingHourClose": "Suljettu",
+        "viewMoreButtonText": "Näytä lisää tästä kaupasta",
+        "latestAds": "Viimeisimmät ilmoitukset",
+        "cancelButtonTitle": "Peruuttaa",
+        "viewsCount": "Katselukerrat: ",
+        "noData": "Tietoja ei ole annettu.",
+        "loginButtonTitle": "Kirjaudu sisään",
+        "loginAlert": "Kirjaudu sisään lähettääksesi sähköpostia kaupalle",
+        "fullDayOpen": "Koko päivän auki",
+        "closed": "Suljettu",
+        "messageToStoreOwner": "Viesti",
+        "viewMore": "Näytä lisää tästä kaupasta",
+        "callPrompt": "Soita tähän kauppaan?",
+        "verified": "Vahvistettu"
+    },
+    "storeMoreDetailTexts": {
+        "sectionTitles": {
+            "openinigDateTime": "Aukioloaika ja -päivä",
+            "storeAddress": "Kaupan osoite",
+            "storeDetails": "Kaupan tiedot",
+            "social": "Kaupan some-linkit"
+        },
+        "alwaysOpen": "Aina auki",
+        "closed": "Suljettu",
+        "cancelButtonTitle": "Peruuta",
+        "noData": "Tietoja ei saatavilla.",
+        "loginButtonTitle": "Kirjaudu sisään",
+        "loginAlert": "Kirjaudu sisään lähettääksesi sähköpostia kaupalle",
+        "fullDayOpen": "Auki koko päivän",
+        "messageToStoreOwner": "Viesti",
+        "callPrompt": "Soita tähän kauppaan?"
+    },
+    "myDocScreenTexts": {
+        "titles": {
+            "photoId": "Kuvallinen henkilökortti",
+            "otherDoc": "Muut asiakirjat"
+        },
+        "notes": {
+            "photoId": {
+                "maxSize": "Tiedoston suurin sallittu koko",
+                "types": "Sallitut kuvatyypit"
+            },
+            "otherDoc": {
+                "maxSize": "Tiedoston suurin sallittu koko on 5 Mt.",
+                "types": "Sallitut tiedostotyypit: pdf."
+            }
+        },
+        "errorMsg": {
+            "photoId": {
+                "maxSize": "Tiedoston suurin sallittu koko ",
+                "types": "Sallitut kuvatyypit "
+            },
+            "otherDoc": {
+                "maxSize": "Tiedoston suurin sallittu koko on 5 Mt.",
+                "types": "Sallitut tiedostotyypit: pdf."
+            }
+        },
+        "buttons": {
+            "upload": "Lataa tiedosto",
+            "download": "Lataa tiedosto",
+            "change": "Vaihda tiedosto"
+        }
+    },
+    "datePickerTexts": {
+        "selectDate": "Valitse päivä",
+        "selectTime": "Valitse aika",
+        "okButtonTitle": "OK"
+    },
+    "dateRangePickerTexts": {
+        "selectStartDate": "Valitse alkamispäivä",
+        "selectEndDate": "Valitse päättymispäivä",
+        "selectStartTime": "Valitse alkamisaika",
+        "selectEndTime": "Valitse päättymisaika",
+        "okButtonTitle": "OK"
+    },
+    "dynamicFilterListPickerTexts": {
+        "selectText": "Valitse"
+    },
+    "dynamicListPickerTexts": {
+        "selectText": "Valitse"
+    },
+    "favouritesItemTexts": {
+        "viewsText": "Näyttökerrat: "
+    },
+    "imageInputTexts": {
+        "cancelButtonTitle": "Peruuta",
+        "ifImageLibraryPermissionDenied": "Ota käyttöön kuvakirjaston käyttöoikeus",
+        "ifCameraPermissionDenied": "Ota käyttöön kameran käyttöoikeus",
+        "deleteMessageHeader": "Poista",
+        "deletePrompt": "Haluatko varmasti poistaa tämän kuvan?",
+        "yesButton": "Kyllä",
+        "noButton": "Ei",
+        "addPhoto": "Lisää kuvia",
+        "takePhoto": "Ota valokuva",
+        "fromGallery": "Galleriasta"
+    },
+    "imageInputListTexts": {
+        "addPhotosButtonTitle": "Lisää kuvia",
+        "addPhotoButtonTitle": "Lisää kuva"
+    },
+    "listingCardTexts": {
+        "soldOutBadgeMessage": "Loppuunmyyty"
+    },
+    "listingFormTexts": {
+        "currencyLabel": "Valuutta",
+        "formTitle": "Tuotetiedot",
+        "fieldRequiredErrorMessage": "Tämä on pakollinen",
+        "tnCToggleText": "Olen lukenut ja hyväksyn sivuston",
+        "tncText": " Käyttöehdot",
+        "tncTitleText": "Käyttöehdot",
+        "listingTitleLabel": "Otsikko",
+        "videoURLLabel": "Videon URL-osoite",
+        "pricingLabel": "Hinnoittelu",
+        "priceTypeLabel": "Hinnan tyyppi",
+        "priceLabel": "Hinta",
+        "maxPriceLabel": "Enimmäishinta",
+        "minPriceLabel": "Vähimmäishinta",
+        "priceUnitLabel": "Hintayksikkö",
+        "listingDescriptionLabel": "Kuvaus",
+        "contactTitle": "Yhteystiedot",
+        "zipCodeLabel": "Postinumero",
+        "addressLabel": "Osoite",
+        "websiteErrorLabel": "Kelvollinen URL vaaditaan!",
+        "geoAddressLabel": "Maantieteellinen osoite",
+        "phoneLabel": "Puhelin",
+        "whatsappLabel": "WhatsApp",
+        "whatsappNote": "WhatsApp-numero esim. +358xxxxxxxxx",
+        "emailLabel": "Sähköposti",
+        "websiteLabel": "Verkkosivusto",
+        "nameLabel": "Nimi",
+        "imagesLabel": "Lisää kuvia",
+        "maxImageCount": "Voit ladata enintään ",
+        "images": "kuvaa",
+        "maxCountLimitReached": "Kuvien kokonaismäärä ylitti suurimman sallitun rajan.",
+        "dragSortText": "Ensimmäinen kuva on otsikkokuva. Paina pitkään vetääksesi ja järjestelläksesi kuvia.",
+        "uploadingNoticeText": "Tämä kestää hetken....",
+        "uploadErrorNoticeText": "Virhe! Yritä uudelleen.",
+        "submitButtonTitle": "Lähetä",
+        "successTitle": "Onnistui!",
+        "successMessage": "Ilmoituksesi on lähetetty",
+        "goBackBtnTitle": "Takaisin",
+        "socialProfileTitle": "Some-profiilit",
+        "tryAgainButtonTitle": "Yritä uudelleen",
+        "mapToggleTitle": "Älä näytä karttaa",
+        "geoCoderFail": "Karttavirhe!",
+        "videoURLInvalid": "URL ei kelpaa!",
+        "videoURLNote": "Esimerkiksi https://www.youtube.com/watch?v=RiXdDGk_XCU",
+        "businessHoursTitle": "Aukioloajat",
+        "businessHoursToggleTitle": "Aktivoi aukioloajat",
+        "businessHoursToggleNote": "Määritä viikoittaiset aikasi",
+        "bHOpenBtnTitle": "Auki",
+        "timeSlotToggleButton": "Haluatko määrittää aikavälit? (Oletus: Koko päivä)",
+        "timeSlotStartTitle": "Aloitus",
+        "timeSlotEndTitle": "Lopetus",
+        "specialHoursToggleTitle": "Erityistunnit - ohittavat",
+        "specialHoursToggleNote": "Määritä viikoittaiset aukioloajat ohittamaan",
+        "geoAddressPlaceholder": "Etsi osoitetta",
+        "formValidation": {
+            "requiredField": "Pakollinen",
+            "minimumLength5": "on oltava vähintään 5 merkkiä.",
+            "minimumLength3": "on oltava vähintään 3 merkkiä.",
+            "validEmail": "Kelvollinen sähköposti vaaditaan.",
+            "geoAddressRequired": "Tämä on pakollinen"
+        }
+    },
+    "myAdsListItemTexts": {
+        "viewsText": "Näyttökerrat: ",
+        "soldOut": "Loppuunmyyty"
+    },
+    "OHTimePickerTexts": {
+        "okButtonTitle": "OK"
+    },
+    "screenTexts": {
+        "noInternetText": "Tarkista internet-yhteys."
+    },
+    "sellerContactTexts": {
+        "call": "Soita",
+        "email": "Sähköposti",
+        "chat": "Viesti"
+    },
+    "similarAdListItemTexts": {
+        "viewsText": "Näyttökerrat: "
+    },
+    "membershipCardTexts": {
+        "ads": "Ilmoitukset",
+        "validityUnit": "Päivää",
+        "regular": "Normaali"
+    },
+    "callForPrice": "Soita hinnasta",
+    "options_user": [
+        {
+            "title": "Omat ilmoitukset",
+            "id": "my_listings"
+        },
+        {
+            "title": "Suosikit",
+            "id": "favourite"
+        },
+        {
+            "title": "Oma jäsenyys",
+            "id": "my_membership"
+        },
+        {
+            "title": "Oma kauppa",
+            "id": "my_store"
+        },
+        {
+            "title": "Profiilini",
+            "id": "my_profile"
+        },
+        {
+            "title": "Maksut",
+            "id": "payments"
+        },
+        {
+            "title": "Omat asiakirjat",
+            "id": "my_documents"
+        },
+        {
+            "title": "Yksityisyys ja turvallisuus",
+            "id": "privacy_safety"
+        }
+    ],
+    "options_drawer": [
+        {
+            "title": "Kaikki kaupat",
+            "id": "all_stores"
+        },
+        {
+            "title": "UKK",
+            "id": "faq"
+        },
+        {
+            "title": "Meistä",
+            "id": "about"
+        },
+        {
+            "title": "Tietosuojakäytäntö",
+            "id": "pp"
+        },
+        {
+            "title": "Käyttöehdot",
+            "id": "tnc"
+        },
+        {
+            "title": "Ota yhteyttä",
+            "id": "contact"
+        },
+        {
+            "title": "Sovellusasetukset",
+            "id": "settings"
+        },
+        {
+            "title": "Jaa",
+            "id": "share"
+        }
+    ],
+    "appDescription": {
+        "link": "",
+        "linkedPara": [],
+        "paras": [
+            {
+                "paraTitle": "Roskalava",
+                "paraDetail": "Olemme Suomen 100% hyväntekeväisyysalusta. Y-tunnus 3140484-1. Perustettu vuonna 2023 Jyväskylässä. Roskalava-sovellus on sovellus, jossa käyttäjät voivat ilmoittaa lahjoittavansa tuotteita, joita he eivät tarvitse, jotta muut niitä tarvitsevat voivat kerätä ne. Myynti tässä sovelluksessa on ehdottomasti kielletty. Tehtävämme on edistää kestävyyttä ja yhteyksiä yhteisöjen sisällä antamalla käytetyille tavaroille toisen mahdollisuuden. Roskalava.net-sivustolla voit helposti julkaista ja löytää käytettyjä aarteita lähiseudullasi.",
+                "paraType": "para"
+            },
+            {
+                "paraTitle": "Missiomme?",
+                "paraDetail": "Tavoitteemme on yksinkertainen: vähentää jätettä ja rakentaa kestävämpi maailma. Kannustamme ihmisiä jakamaan ja käyttämään tavaroita uudelleen, näin auttaen ympäristöä sekä edistäen oman yhteisön siteitä.",
+                "paraType": "para"
+            },
+            {
+                "paraTitle": "Kuinka se toimii?",
+                "paraDetail": "Lista kohteet: lähetä tarpeettomat tuotteet kuvien ja noutotietojen kera.\nLöydä aarteita: Selaa listauksia kategorian tai sijainnin mukaan löytääksesi tarvitsemasi.\nYhdistä ja kerää: Ota yhteyttä käyttäjiin pikachatin kautta, järjestä nouto ja anna kohteita uusi koti.",
+                "paraType": "para"
+            },
+            {
+                "paraTitle": "Miksi valita meidät?",
+                "paraDetail": "Yhteisökeskeinen: Liity yhteisöön, joka välittää kestävyydestä.\n\nYmpäristöystävällinen: Vähennä jätettä\n\nKäyttäjäystävällinen: Helppokäyttöinen alusta kaikille.\n\nPaikalliset yhteydet: Ota yhteyttä naapureihin kätevää noutoa varten. \n\nIlmainen: Nauti alustasta ilmaiseksi.\n\nKaksikieli: Saatavilla sekä suomeksi että englanniksi\n\nLiity meihin vaikuttamaan..",
+                "paraType": "para"
+            }
+        ]
+    },
+    "drawerScreenTexts": {
+        "copyrightText": "2023© All right reserved by",
+        "linkText": "Roskalava"
+    },
+    "frequentlyAskedQuestions": [
+        {
+            "question": "Kuinka laitan ilmoituksen?",
+            "answer": "Voit lähettää mainoksesi helposti; Napsauta vain plus (+) tai Jätä ilmoitus -kuvaketta ja kirjaudu sisään ja lähetä ilmoituksesi tiedoilla. Saat ilmoituksen ilmoituksen lähettämisen jälkeen."
+        },
+        {
+            "question": "Kuinka muokkaan/poistan mainoksiani?",
+            "answer": "kirjaudu sisään ja siirry kohtaan Tili => ilmoitukseni ja saat luettelon mainoksistasi. Jokaisessa mainoksessa on poistovaihtoehto"
+        },
+        {
+            "question": "Kuinka voin muokata tilitietojani?",
+            "answer": "Kirjaudu sisään ja mene tililleni, saat tilisi tietojen muokkausvaihtoehdon"
+        },
+        {
+            "question": "Kuinka aloittaa chatti jonkun kanssa?",
+            "answer": "Napsauta mainosta; saat sähköpostin, puhelimen ja chat-vaihtoehdon. Napauta vain chat-kuvaketta ja aloita keskustelu."
+        }
+    ],
+    "sellFastTips": [
+        {
+            "id": 1,
+            "title": "Valitse oikea hinta",
+            "detail": "Hinta on iso tekijä tuotteen ostavalle asiakkaalle. Joten ennen hinnan määrittämistä vieraile vastaavissa mainoksissa ja aseta kohtuullinen ja kilpailukykyinen hinta."
+        },
+        {
+            "id": 2,
+            "title": "Käytä upeita valokuvia",
+            "detail": "Käytä selkeitä ja todellisia kuvia tuotteestasi/tuotteistasi. Voit käyttää useita kuvia eri näkymistä, jotta ostaja saa selkeämmän käsityksen tuotteestasi/tuotteistasi."
+        },
+        {
+            "id": 3,
+            "title": "Anna selkeä kuvaus",
+            "detail": "Anna selkeä ja yksityiskohtainen kuvaus tuotteestasi. Varmista, että olet lisännyt oikeat tiedot tuotteistasi."
+        }
+    ],
+    "moreOptions": [
+        {
+            "title": "Ota yhteyttä",
+            "detail": "Jos kohtaat ongelmia tai et löytänyt vastausta kysymykseesi usein kysyttyjen kysymysten osiosta, ota rohkeasti yhteyttä admin@roskalava.net.",
+            "id": "contact_us"
+        },
+        {
+            "title": "Tietoa meistä",
+            "detail": "Tervetuloa Roskalava- sivustolle, Y-tunnus 3140484-1. vuonna 2023 perustama Roskalava. Ainoa tavoitteemme on auttaa pidentämään tuotteiden elinkaarta tarjoamalla foorumin lahjoituksille niille, joille on edelleen hyötyä sellaisista tuotteista, jotka muutoin hävitetään omistajien toimesta. Pidämme tätä panoksemme paremman ympäristön luomisessa meille kaikille.Toivomme että nautit palveluistamme yhtä paljon kun me nautimme tämän työn tekemisestä. Jos sinulle tulee kysyttävää ja ehdotuksia, ota rohkeasti yhteyttä admin@roskalava.net. Ystävällisin terveisin",
+            "id": "about_us"
+        },
+        {
+            "title": "Käyttöehdot",
+            "detail": "Muista lukea nämä käyttöehdot ennen tämän sovelluksen käyttöä.",
+            "id": "tnc"
+        },
+        {
+            "title": "Tietosuojakäytäntö",
+            "detail": "Tervetuloa (www.roskalava.net). Ymmärrämme, että verkkotietosuoja on tärkeä sivustojemme käyttäjille, etenkin liiketoiminnan aikana. Tämä lausunto koskee tietosuojakäytäntöjämme suhteessa niihin Sivuston käyttäjiin (”Vierailijat”), jotka käyvät ilman liiketoimintaa, ja Vierailijoihin, jotka ilmoittautuvat harjoittamaan liiketoimintaa Sivustolla ja käyttävät (yhdessä ”Palvelut”) tarjoamia erilaisia palveluita. (”Valtuutetut asiakkaat”).”Henkilökohtaisesti tunnistettavissa olevilla tiedoilla” tarkoitetaan kaikkia tietoja, jotka yksilöivät tai joita voidaan käyttää henkilöiden tunnistamiseen, yhteydenpitoon tai paikantamiseen, mukaan lukien nimi, osoite, puhelinnumero, faksinumero, sähköpostiosoite, taloudelliset profiilit, sosiaaliturvatunnus ja luottokorttitiedot. Henkilökohtaisesti tunnistettavissa oleviin tietoihin ei sisälly tietoja, jotka on kerätty nimettömästi (ts. Ilman yksittäisen käyttäjän tunnistamista), tai väestötietoja, joita ei ole liitetty tunnistettuun yksikköön..",
+            "id": "pp"
+        }
+    ],
+    "privacyPolicy": {
+        "paras": [
+            {
+                "paraTitle": "Mitä henkilökohtaisesti tunnistettavia tietoja kerätään?",
+                "paraDetail": "Voimme kerätä perustiedot käyttäjäprofiilista kaikilta vierailijoiltamme. Keräämme seuraavat lisätiedot valtuutetuilta asiakkailtamme: valtuutettujen asiakkaiden nimet, osoitteet, puhelinnumerot ja sähköpostiosoitteet, yrityksen luonne ja koko sekä mainosjakauman luonne ja koko, jonka valtuutettu asiakas aikoo ostaa tai myydä..",
+                "paraType": "para"
+            },
+            {
+                "paraTitle": "Mitkä organisaatiot keräävät tietoja?",
+                "paraDetail": "Suoran tiedonkeruun lisäksi kolmansien osapuolien palveluntarjoajat (kuten luottokorttiyhtiöt, selvityskeskukset ja pankit), jotka voivat tarjota sellaisia palveluja kuin luotto-, vakuutus- ja escrow-palvelut, voivat kerätä näitä tietoja kävijöiltämme ja valtuutetuilta asiakkailtamme. Emme hallitse sitä, kuinka nämä kolmannet osapuolet käyttävät tällaisia tietoja, mutta pyydämme heitä paljastamaan, kuinka he käyttävät kävijöiltä ja valtuutetuilta asiakkailta heille toimitettuja henkilökohtaisia tietoja. Jotkut näistä kolmansista osapuolista voivat olla välittäjiä, jotka toimivat pelkästään jakeluketjun linkkinä eivätkä säilytä, säilytä tai käytä heille annettuja tietoja..",
+                "paraType": "para"
+            },
+            {
+                "paraTitle": "Kuinka sivusto käyttää henkilökohtaisia tietoja?:",
+                "paraDetail": "Käytämme henkilökohtaisesti tunnistettavia tietoja sivuston räätälöintiin, asianmukaisten palvelutarjousten tekemiseen ja sivuston osto- ja myyntipyyntöjen täyttämiseen. Voimme lähettää kävijöille ja valtuutetuille asiakkaille sähköpostia Sivuston tutkimus- tai osto- ja myyntimahdollisuuksista tai sivuston aiheeseen liittyvistä tiedoista. Voimme käyttää henkilökohtaisesti tunnistettavia tietoja myös ottaaksesi yhteyttä vierailijoihin ja valtuutettuihin asiakkaisiin vastauksena tiettyihin tiedusteluihin tai pyydettyjen tietojen toimittamiseen..",
+                "paraType": "para"
+            },
+            {
+                "paraTitle": "Kenen kanssa tietoja voidaan jakaa:",
+                "paraDetail": "Henkilökohtaisesti valtuutettuja asiakkaita koskevia tunnistettavia tietoja voidaan jakaa muiden kanssa.Valtuutetut asiakkaat, jotka haluavat arvioida mahdollisia liiketoimia muiden valtuutettujen asiakkaiden kanssa. Voimme jakaa yhdistettyjä tietoja vierailijoistamme, mukaan lukien kävijöidemme ja valtuutettujen asiakkaidemme demografiset tiedot, tytäryhtiöidemme ja ulkopuolisten toimittajien kanssa. Tarjoamme myös mahdollisuuden 'poistua tietojen vastaanottamisesta tai ottaa yhteyttä meihin tai mihin tahansa meidän puolestamme toimivaan virastoon..",
+                "paraType": "para"
+            },
+            {
+                "paraTitle": "Kuinka henkilökohtaisesti tunnistettavat tiedot tallennetaan?:",
+                "paraDetail": "Henkilökohtaisesti keräämät tunnistetiedot säilytetään turvallisesti, eikä niitä pääse kolmansille osapuolille tai työntekijöille, paitsi edellä mainittua käyttöä varten.",
+                "paraType": "para"
+            },
+            {
+                "paraTitle": "Mitä valintoja vierailijoilla on tiedon keräämistä, käyttöä ja jakelua varten??",
+                "paraDetail": "Vierailijat ja valtuutetut asiakkaat voivat kieltäytyä vastaanottamasta pyytämättömiä tietoja meiltä ja / tai myyjiltämme ja sidosyrityksiltämme tai ottamalla heihin yhteyttä vastaamalla ohjeisiin annettuihin sähköposteihin tai ottamalla meihin yhteyttä osoitteessa.",
+                "paraType": "para"
+            },
+            {
+                "paraTitle": "Evästeet?",
+                "paraDetail": "Eväste on tietojono, jonka verkkosivusto tallentaa vierailijan tietokoneelle ja jonka vierailijan selain toimittaa verkkosivustolle joka kerta kun vierailija palaa. Käytetäänkö sivustossa evästeitä?.",
+                "paraType": "para"
+            },
+            {
+                "paraTitle": "",
+                "paraDetail": "Evästeitä käytetään monista syistä. Käytämme evästeitä saadaksesi tietoa kävijöidemme mieltymyksistä ja heidän valitsemistaan palveluista. Käytämme evästeitä myös turvallisuustarkoituksiin valtuutettujen asiakkaidemme suojelemiseksi. Esimerkiksi, jos valtuutettu asiakas on kirjautunut sisään ja sivustoa ei käytetä yli 10 minuuttiin, kirjaamme valtuutetun asiakkaan automaattisesti pois päältä. Vierailijoiden, jotka eivät halua asettaa evästeitä tietokoneilleen, tulisi asettaa selaimessa kieltäytymään evästeiden käytöstä ennen käyttöä, sillä haittana on, että tietyt verkkosivuston ominaisuudet eivät ehkä toimi kunnolla ilman evästeiden apua.Palveluntarjoajamme käyttämät evästeet Palveluntarjoajamme käyttävät evästeitä, ja näitä evästeitä voidaan tallentaa tietokoneellesi, kun käyt verkkosivustollamme. Löydät lisätietoja evästeiden käytöstä evästeiden tietosivulta. Kuinka kirjautumistietoja käytetään? käyttää kirjautumistietoja, mukaan lukien, mutta näihin rajoittumatta, IP-osoitteet, Internet-palveluntarjoajat ja selaintyypit analysoidakseen trendejä, hallinnoimaan Sivustoa, seuraamaan käyttäjän liikkumista ja käyttöä ja keräämään laajaa väestötietoa..",
+                "paraType": "para"
+            },
+            {
+                "paraTitle": "Millä yhteistyökumppaneilla tai palveluntarjoajilla on pääsy sivuston kävijöiden ja / tai valtuutettujen asiakkaiden henkilökohtaisesti tunnistettaviin tietoihin?:",
+                "paraDetail": "on solminut ja jatkaa kumppanuuksia ja muita yhteyksiä useiden myyjien kanssa. Tällaisilla myyjillä voi olla pääsy tiettyihin henkilökohtaisesti tunnistettaviin tietoihin, joiden on oltava tarpeen tietää perusteet valtuutettujen asiakkaiden arvioimiseksi palvelun kelpoisuudesta. Tietosuojakäytäntömme ei kata heidän tietojen keräämistä tai käyttöä. Henkilökohtaisesti tunnistettavien tietojen paljastaminen lain noudattamiseksi. Paljastamme henkilökohtaisesti tunnistettavia tietoja noudattaaksemme tuomioistuimen määräystä tai haastetta tai lainvalvontaviranomaisen pyyntöä tietojen luovuttamiseksi. Paljastamme myös henkilökohtaisesti tunnistettavia tietoja, kun se on kohtuudella tarpeen vierailijoidemme ja valtuutettujen asiakkaidemme turvallisuuden suojelemiseksi..",
+                "paraType": "para"
+            },
+            {
+                "paraTitle": "Kuinka sivusto pitää henkilökohtaisesti tunnistettavat tiedot turvassa?:",
+                "paraDetail": "Kaikki työntekijämme tuntevat turvallisuuspolitiikkamme ja käytänteemme. Vierailijoidemme ja valtuutettujen asiakkaidemme henkilökohtaisesti tunnistettavat tiedot ovat saatavissa vain rajoitetulle määrälle päteviä työntekijöitä, joille on annettu salasana tietojen saamiseksi. Tarkastamme turvallisuusjärjestelmiämme ja prosessejamme säännöllisesti. Arkaluonteisia tietoja, kuten luottokorttinumeroita tai sosiaaliturvatunnuksia, suojataan salausprotokollalla, jotta Internetin kautta lähetettyjä tietoja voidaan suojata. Vaikka ryhdymme kaupallisesti kohtuullisiin toimenpiteisiin turvallisen sivuston ylläpitämiseksi, sähköisessä viestinnässä ja tietokannoissa esiintyy virheitä, peukalointia ja murtautumisia. Emme voi taata tai taata, että tällaisia tapahtumia ei tapahdu, emmekä ole vastuussa vierailijoille tai Valtuutetut asiakkaat tällaisista tapauksista..",
+                "paraType": "para"
+            },
+            {
+                "paraTitle": "Kuinka kävijät voivat korjata henkilökohtaisesti tunnistettavissa olevien tietojen epätarkkuudet?",
+                "paraDetail": "Vierailijat ja valtuutetut asiakkaat voivat ottaa meihin yhteyttä päivittääksemme heitä koskevia henkilökohtaisia tietoja tai korjatakseen epätarkkuudet lähettämällä meille sähköpostia osoitteeseen. Voiko kävijä poistaa tai poistaa käytöstä sivuston keräämät henkilökohtaisesti tunnistettavat tiedot? Tarjoamme vierailijoille ja valtuutetuille asiakkaille mekanismin, jonka avulla henkilökohtaisesti tunnistettavat tiedot voidaan poistaa / deaktivoida sivuston tietokannasta ottamalla yhteyttä. Varmuuskopioiden ja poistettujen tiedostojen takia voi kuitenkin olla mahdotonta poistaa vierailijan merkintää säilyttämättä joitain jäljellä olevia tietoja. Henkilö, joka pyytää henkilökohtaisten tunnistetietojen deaktivointia, poistaa nämä tiedot toiminnallisesti, emmekä myy, siirrä tai käytä henkilökohtaisia tietoja, jotka liittyvät kyseiseen henkilöön millään tavalla eteenpäin. Sinun oikeutesi.Nämä ovat yhteenvetoja oikeuksista, jotka sinulla on tietosuojalain nojalla. Käyttöoikeus. 1.Oikeus oikaisuun. 2.Oikeus poistaa. 3.Oikeus rajoittaa käsittelyä. 4.Oikeus vastustaa käsittelyä. 5.Oikeus tietojen siirrettävyyteen. 6.Oikeus valittaa valvontaviranomaiselta. 7.Oikeus peruuttaa suostumus",
+                "paraType": "para"
+            },
+            {
+                "paraTitle": "Mitä tapahtuu, jos tietosuojakäytäntö muuttuu?:",
+                "paraDetail": "Kerromme vierailijoillemme ja valtuutetuille asiakkaillemme tietosuojakäytäntömme muutoksista lähettämällä tällaiset muutokset Sivustolle. Jos kuitenkin muutamme tietosuojakäytäntöämme tavalla, joka saattaa aiheuttaa sellaisten henkilökohtaisesti tunnistettavien tietojen paljastamisen, joita vierailija tai valtuutettu asiakas on aiemmin pyytänyt paljastamatta, otamme yhteyttä tällaiseen vierailijaan tai valtuutettuun asiakkaaseen, jotta tällainen kävijä tai valtuutettu asiakas voi estää tällainen paljastaminen..",
+                "paraType": "para"
+            },
+            {
+                "paraTitle": "linkit:",
+                "paraDetail": "sisältää linkkejä muille verkkosivustoille. Huomaa, että kun napsautat yhtä näistä linkeistä, siirryt toiselle verkkosivustolle. Kehotamme sinua lukemaan näiden linkitettyjen sivustojen tietosuojalausunnot, koska niiden tietosuojakäytännöt saattavat poiketa omista.'.",
+                "paraType": "para"
+            }
+        ],
+        "link": "",
+        "linkedPara": []
+    },
+    "termsAndConditions": [
+        {
+            "paraTitle": "Käyttöehdot",
+            "paraData": "Nämä ehdot sääntelevät pääsyäsi kaikkiin Opare A. Y-tunnus 3140484-1: n ylläpitämään sisältöön, tuotteisiin ja palveluihin, jotka ovat saatavilla https://www.roskalava.net -sivustolla.Sinun pääsy palveluihimme edellyttää, että hyväksyt kaikki muut ehdot ja kaikki muut julkaisetut käyttöehdot ja käytännöt, joita voimme julkaista ajoittain, ilman muutoksia.Lue sopimus huolellisesti ennen palveluun pääsyä tai käyttöä. Käyttämällä mitä tahansa palvelumme osaa tai käyttämällä sitä, sitoudut sitoutumaan näihin ehtoihin. Jos et hyväksy mitään sopimuksen ehtojen osaa, et voi käyttää Palveluitamme tai käyttää sitä.."
+        },
+        {
+            "paraTitle": "Immateriaalioikeudet",
+            "paraData": "Sopimus ei siirrä meiltä meille mitään omaa tai kolmannen osapuolen immateriaalioikeutta, ja kaikki oikeudet, omistusoikeudet ja edut tällaiseen omaisuuteen ja tällaiseen omaisuuteen säilyvät (osapuolten välillä) yksinomaan Roskalava ja sen lisenssinantajien kanssa.."
+        },
+        {
+            "paraTitle": "Kolmansien osapuolien palvelut",
+            "paraData": "Palveluita käytettäessä voit käyttää kolmannen osapuolen palveluita, tuotteita, ohjelmistoja, upotuksia tai kolmannen osapuolen kehittämiä sovelluksia (”kolmannen osapuolen palvelut”).Jos käytät kolmannen osapuolen palveluita, hyväksyt seuraavan:Kolmannen osapuolen palvelun käyttö on omalla vastuulla, emmekä ole vastuussa kenellekään kolmansien osapuolien verkkosivustoista tai palveluista.Hyväksyt ja suostut siihen, että emme ole vastuussa mistään vahingoista tai menetyksistä, jotka aiheutuvat tai väitetään johtuvan minkään tällaisen sisällön, tavaroiden tai palveluiden käytöstä, joka on saatavana sellaisilla verkkosivustoilla tai palveluilla."
+        },
+        {
+            "paraTitle": "Tilit",
+            "paraData": "Jos palvelumme minkä tahansa osan käyttö edellyttää tiliä, suostut toimittamaan meille täydelliset ja tarkat tiedot rekisteröityessäsi tilille.Olet yksin vastuussa kaikesta tilisi alla tapahtuvasta toiminnasta. Olet vastuussa tilitietojesi ajan tasalla pitämisestä ja salasanasi suojaamisesta.Olet vastuussa tilisi turvallisuuden ylläpidosta, jota käytät Palvelun käyttämiseen. Et saa jakaa käyttöoikeuksiasi tai käyttää niitä väärin. Sinun on ilmoitettava meille välittömästi tilisi luvattomasta käytöstä tai saatuaan tietää muista tietoturvaloukkauksista.."
+        },
+        {
+            "paraTitle": "Päättyminen",
+            "paraData": "Voimme lopettaa tai keskeyttää käyttöoikeutesi kaikkiin tai osaan Palveluistamme milloin tahansa, ilman syytä tai ilman ennakkoilmoitusta, voimaantuloa heti. Jos haluat irtisanoa sopimuksen tai Roskalava-tilisi, voit yksinkertaisesti lopettaa Palveluidemme käytön.Kaikki sopimuksen määräykset, joiden luonteensa vuoksi pitäisi päättyä irtisanomiseen, pysyvät voimassa irtisanomisen jälkeen, mukaan lukien, rajoittamatta, omistussäännökset, vastuuvapauslausekkeet, korvaukset ja vastuun rajoitukset.."
+        },
+        {
+            "paraTitle": "Vastuuvapauslauseke",
+            "paraData": "Palvelumme tarjotaan ”sellaisena kuin se on”. ja ”AS AVAILABLE” -periaatteella. Roskalava sekä sen tavarantoimittajat ja lisenssinantajat kieltäytyvät täten antamasta minkäänlaista nimenomaista tai epäsuoraa takuuta Toimivalta ja sovellettava laki. Jollei sovellettavassa lainsäädännössä toisin määrätä, sopimusta ja palveluiden saatavuutta tai käyttöä säännellään Suomen laeilla.Sopiva paikka riita-asioista, jotka johtuvat sopimuksesta tai liittyvät niihin, sekä pääsy palveluihimme tai niiden käyttö on Suomessa sijaitsevat tuomioistuimet.."
+        },
+        {
+            "paraTitle": "muutokset",
+            "paraData": "Roskalava pidättää oikeuden oman harkintansa mukaan muuttaa tai korvata näitä ehtoja milloin tahansa.Jos teemme olennaisia muutoksia, ilmoitamme sinulle siitä lähettämällä sähköpostia verkkosivustollemme tai lähettämällä sinulle sähköpostia tai muun viestin ennen muutosten voimaantuloa. Ilmoituksessa määrätään kohtuullinen aika, jonka jälkeen uudet ehdot tulevat voimaan.Jos olet eri mieltä muutoksistamme, sinun tulee lopettaa Palveluidemme käyttö ilmoitetun ilmoitusajan kuluessa tai heti, kun muutokset tulevat voimaan.Palveluidemme jatkuvaan käyttöön sovelletaan uusia ehtoja.."
+        },
+        {
+            "paraTitle": "Tietoja evästepolitiikasta",
+            "paraData": "Evästepolitiikka selittää, mitä evästeet ovat ja miten niitä käytetään. Sinun tulee lukea tämä käytäntö ymmärtääksesi mitä evästeet ovat, kuinka niitä käytämme, evästetyyppejä, joita me käytämme, evästeiden avulla keräämiämme tietoja ja kuinka näitä tietoja käytetään ja miten evästeasetuksia voidaan hallita. Lisätietoja henkilötietojemme käytöstä, tallentamisesta ja suojaamisesta on tietosuojakäytännössä.Voit milloin tahansa muuttaa tai peruuttaa suostumuksesi evästeiden ilmoituksesta verkkosivustollamme.Lisätietoja siitä, keitä me olemme, kuinka voit ottaa meihin yhteyttä ja miten käsittelemme henkilötietoja tietosuojakäytännössämme.Suostumuksesi koskee seuraavia verkkotunnuksia: www.roskalava.net.Nykyinen tila: suostumus hyväksytty. Hallitse suostumustasi.."
+        },
+        {
+            "paraTitle": "Mitä evästeet ovat?",
+            "paraData": "Evästeet ovat pieniä tekstitiedostoja, joita käytetään pienten tietojen palauttamiseen. Evästeet tallennetaan laitteellesi, kun verkkosivusto ladataan selaimeesi. Nämä evästeet auttavat meitä saamaan verkkosivuston toimimaan oikein, tekemään verkkosivustosta turvallisemman, tarjoamaan paremman käyttökokemuksen ja ymmärtämään verkkosivuston toimintakykyä sekä analysoimaan, mikä toimii ja missä sitä on parannettava.."
+        },
+        {
+            "paraTitle": "Kuinka käytämme evästeitä?",
+            "paraData": "Kuten suurin osa verkkopalveluista, verkkosivustomme käyttää evästeitä ja kolmansien osapuolien evästeitä useisiin tarkoituksiin. Ensimmäisen osapuolen evästeet ovat enimmäkseen välttämättömiä verkkosivuston oikealle toiminnalle, eivätkä ne kerää henkilökohtaisia tietojasi.Verkkosivuillamme käytettyjä kolmansien osapuolien evästeitä käytetään pääasiassa ymmärtämään verkkosivuston suorituskykyä, miten olet vuorovaikutuksessa verkkosivustomme kanssa, pitämään palvelumme turvallisina, tarjoamaan sinulle merkityksellisiä mainoksia ja tarjoamaan kaiken kaikkiaan parempaa ja parannettua. käyttökokemus ja auttaa nopeuttamaan tulevaa vuorovaikutustasi verkkosivustomme kanssa.."
+        },
+        {
+            "paraTitle": "Millaisia evästeitä käytämme?",
+            "paraData": "Oleellista: Jotkut evästeet ovat välttämättömiä, jotta voit kokea sivustomme kaikki toiminnot. Niiden avulla voimme ylläpitää käyttäjäistuntoja ja estää tietoturvauhat. He eivät kerää tai tallenna henkilökohtaisia tietoja. Esimerkiksi näiden evästeiden avulla voit Kirjaudu sisään tilillesi ja lisätä tuotteita koriin ja kassalle turvallisesti.Tilastot: Nämä evästeet tallentavat tietoja, kuten verkkosivustossa kävijöiden lukumäärä, yksittäisten kävijöiden lukumäärä, millä verkkosivuston sivuilla on käynyt, käyntilähde jne. Nämä tiedot auttavat meitä ymmärtämään ja analysoimaan verkkosivuston suorituskykyä ja missä sitä on parannettava.Markkinointi: Verkkosivumme näyttää mainoksia. Näitä evästeitä käytetään räätälöimään sinulle näytettyjä mainoksia niin, että ne ovat merkityksellisiä sinulle. Nämä evästeet auttavat meitä myös seuraamaan näiden mainoskampanjoiden tehokkuutta. Näiden evästeiden tietoja voidaan myös käyttää kolmannen osapuolen mainostoimittajien avulla näyttääksesi mainoksia myös muilla selaimen verkkosivustoilla.Toiminnallinen: Nämä ovat evästeet, jotka auttavat tiettyjä ei-välttämättömiä toimintoja verkkosivustollamme. Nämä toiminnot sisältävät sisällön upottamisen, kuten videot, tai sisällön jakamisen verkkosivustolle sosiaalisen median alustoilla.Asetukset: Nämä evästeet auttavat meitä tallentamaan asetukset ja selausasetukset, kuten kieliasetukset, jotta sinulla olisi parempi ja tehokkaampi kokemus tulevista verkkosivustovierailuista.."
+        },
+        {
+            "paraTitle": "Kuinka voin hallita evästeasetuksia?",
+            "paraData": "Jos päätät muuttaa asetuksiasi myöhemmin selausistunnon aikana, voit napsauttaa ruudun Tietosuoja ja evästeet -välilehteä. Näyttöön tulee jälleen suostumusta koskeva ilmoitus, jonka avulla voit muuttaa mieltymyksiäsi tai peruuttaa suostumuksesi kokonaan. Tämän lisäksi eri selaimet tarjoavat erilaisia tapoja estää ja poistaa verkkosivustojen käyttämiä evästeitä. Voit muuttaa selaimesi asetuksia estämään / poistamaan evästeet. Lisätietoja evästeiden hallinnasta ja poistamisesta saat osoitteesta wikipedia.org, www.allaboutcookies.org."
+        }
+    ],
+    "relativeTime": {
+        "future": "tulevaisuudessa %s",
+        "past": "%s sitten",
+        "s": "muutama sekunti",
+        "m": "yksi minuutti",
+        "mm": "%d minuuttia",
+        "h": "yksi tunti",
+        "hh": "%d tuntia",
+        "d": "yksi päivä",
+        "dd": "%d päivää",
+        "M": "yksi kuukausi",
+        "MM": "%d kuukautta",
+        "y": "yksi vuosi",
+        "yy": "%d vuotta"
+    },
+    "promotions": {
+        "_bump_up": "Nosta ylös",
+        "_top": "Top",
+        "featured": "Esittelyssä"
+    },
+    "listingStatus": {
+        "expired": "Vanhentunut",
+        "publish": "Julkaistu",
+        "pending": "Odottaa",
+        "draft": "Luonnos",
+        "reviewed": "Arvioitu"
+    },
+    "fixedPriceLabel": "Kiinteä hinta",
+    "negotiablePriceLabel": "Neuvoteltavissa"
+}

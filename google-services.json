@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "518040660343",
+    "project_id": "roskalava-bcab5",
+    "storage_bucket": "roskalava-bcab5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518040660343:android:d24bde2ac9d7c945f35972",
+        "android_client_info": {
+          "package_name": "com.roskalava.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518040660343-n1n04756dfo5c73cddojgpr5rgsovhiv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjYetM4hP8E7ko3OhB985K72lPSJrMutM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518040660343-7ov2tqt93nqrnhbqolv3c66hu72l1e2i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "518040660343-ofv96llfagkmea2o3g132i9hnp6td9mb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "om.roskalava.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
